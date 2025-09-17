@@ -11,7 +11,7 @@
 </div> 
 
 ##
-- 🔭 i'm currently learning java and core programming concepts
+- 🔭 i'm currently learning javascript and core programming concepts
 - ✍️ i enjoy clean code, logic challenges, and purposeful learning
 - 🌱 focused on building solid foundations through mini projects
 
@@ -32,5 +32,6 @@
 
 
 </p>
+
 
 
