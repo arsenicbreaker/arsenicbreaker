@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agustia eriani</h1>
-<h3 align="center">I'm a passionate learner diving deep into the world of programming and development🌱.</h3>
+<h3 align="center">I'm a passionate learner diving deep into the world of programming and development🌱</h3>
   
 <p align="center">🔭 i'm currently learning javascript and core programming concepts</p>
 
@@ -68,6 +68,7 @@
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
   </a>
 </p>
+
 
 
 
