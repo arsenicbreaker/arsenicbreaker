@@ -5,7 +5,7 @@
 - ✍️ i enjoy clean code, logic challenges, and purposeful learning
 - 🌱 focused on building solid foundations through mini projects
 
-## Languages and Tools:
+<h2 align="center">Languages and Tools:</h1>
 <p align="center">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -55,7 +55,7 @@
 </p>
 
 
-## Socials:
+<h2 align="center">Socials:</h1>
 <p align="center">
   <a href="https://behance.net/oceanagustia">
     <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" />
@@ -70,5 +70,6 @@
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
   </a>
 </p>
+
 
 
