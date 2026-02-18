@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Agustia eriani</h1>
 <h3 align="center">I'm a passionate learner diving deep into the world of programming and development.</h3>
   
-<p align="center">- 🔭 i'm currently learning javascript and core programming concepts</p>
-<p align="center">- ✍️ i enjoy clean code, logic challenges, and purposeful learning</p>
-<p align="center">- 🌱 focused on building solid foundations through mini projects</p>
+<p align="center">- 🔭 i'm currently learning javascript and core programming concepts
+- ✍️ i enjoy clean code, logic challenges, and purposeful learning
+- 🌱 focused on building solid foundations through mini projects</p>
 
 <h2 align="center">Languages and Tools:</h1>
 <p align="center">
@@ -70,6 +70,7 @@
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
   </a>
 </p>
+
 
 
 
