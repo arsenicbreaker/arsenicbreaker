@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Agustia eriani</h1>
-<h3 align="center">I'm a passionate learner diving deep into the world of programming and development.</h3>
 <p align="center">
   <a href="https://behance.net/oceanagustia">
     <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" />
@@ -14,6 +13,7 @@
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
   </a>
 </p>
+<h3 align="center">I'm a passionate learner diving deep into the world of programming and development.</h3>
   
 - 🔭 i'm currently learning javascript and core programming concepts
 - ✍️ i enjoy clean code, logic challenges, and purposeful learning
@@ -24,6 +24,7 @@
 
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/oceanagustia) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/berrypumsie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agustiaeriani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xoceanfluxx) 
+
 
 
 
