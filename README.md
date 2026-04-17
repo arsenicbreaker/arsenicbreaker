@@ -9,10 +9,10 @@ const ind = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Rust, Java],
   tools: [React, Styled-Components, Anchor, Figma],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+  architecture: {
+                   "microservices",
+                   "event-driven",
+                   "design system pattern"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
